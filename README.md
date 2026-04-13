@@ -22,11 +22,9 @@ Actualmente optimizo procesos logísticos y de reportería BI en el sector de te
 
 ### 📈 Proyectos Destacados
 
-* **[MediAgenda](https://github.com/tu-usuario/mediagenda):** Sistema Full Stack de agendamiento médico (Spring Boot + React + MySQL).
-* **WOM Inventario:** Automatización de monitoreo de stock y logística de simcards utilizando Python.
-* **Cloud-Native ML Pipeline:** Implementación de modelos de regresión y clasificación directamente en BigQuery.
-* **sales-marketing-dataset-transformation:** Transformación y estandarización de un dataset sucio de ventas/marketing con notebooks reproducibles y métricas de validación.
-
+* **[Cloud-Native ML Pipeline](https://github.com/encarportillo/ML-cloud-BQ-casos-de-uso.git):** Implementación de modelos de regresión y clasificación directamente en BigQuery.
+* **[sales-marketing-dataset-transformation](https://github.com/encarportillo/sales-marketing-dataset-transformation.git):** Transformación y estandarización de un dataset sucio de ventas/marketing con notebooks reproducibles y métricas de validación.
+* **[San Valentin](https://github.com/encarportillo/SanValentin.git):** Un regalo de san valentin al mejor estilo geek para esa persona especial
 ---
 
 ### 🌱 En qué estoy trabajando
